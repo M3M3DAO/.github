@@ -50,3 +50,7 @@ sequenceDiagram
     M3M3Voting ->> M3M3NFT:  D-2. Burn NFT
     M3M3Voting ->> User: D-3. Transfer Meme Coin to User
 ```
+
+# Contract Architecture
+![screenshot](m3m3.drawio.png)
+
