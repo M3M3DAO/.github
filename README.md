@@ -41,8 +41,11 @@ sequenceDiagram
     M3M3Voting ->> M3M3Voting : C-2. get 1st ranked meme coin
     User ->> M3M3Voting: C-3. Buy 1st ranked Meme Coin with NFT
     User ->> M3M3NFT: C-4. Transfer NFT to Contract
-
     User ->> M3M3Voting: D-1. Burn NFT
     M3M3Voting ->> M3M3NFT:  D-2. Burn NFT
     M3M3Voting ->> User: D-3. Transfer Meme Coin to User
 ```
+
+# Contract Architecture
+![alt text](https://raw.githubusercontent.com/M3M3DAO/.github/main/profile/m3m3.drawio.png)
+
